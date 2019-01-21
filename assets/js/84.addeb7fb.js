@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[84],{157:function(t,e,n){"use strict";n.r(e);var o=n(12),s=Object(o.a)({},function(){var t=this.$createElement;return(this._self._c||t)("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}})},[],!1,null,null,null);s.options.__file="oop-feature.md";e.default=s.exports}}]);
